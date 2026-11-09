@@ -1,0 +1,61 @@
+.pagina {
+    margin-left: 40vh;
+    margin-right: 40vh;
+    margin-top: 5vh;
+    color: #333333;
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+}
+
+h1 {
+    background-image: url(../img/sobre-background.jpg);
+}
+
+h2 {
+    border-bottom: 2px solid #333333;
+}
+
+.historia1 {
+    margin: 6vh;
+}
+
+.text-img {
+    display: flex;
+}
+
+figure {
+    background-color: #F2EDED;
+    border: 1px solid #ccc;
+    text-align: center;
+}
+
+figcaption {
+    text-align: center;
+}
+
+.bg-family {
+    margin-left: 5vh;
+    margin-bottom: 40vh;
+    background-color: rgb(216, 216, 216);
+    border: 1px solid rgb(180, 180, 180);
+    padding-top: 3vh;
+    padding-left: 3vh;
+    padding-right: 3vh;
+    padding-bottom: 2.5vh;
+}
+
+.compre {
+    color: blue;
+    background-color: rgb(188, 226, 213);
+    padding: 10px 10px;
+    font-size: 6vh;
+}
+
+.rodape {
+    display: flex;
+}
+
+.copy {
+    color: rgb(73, 73, 73);
+    margin-top: 5vh;
+    margin-left: 5vh;
+}
